@@ -1,4 +1,4 @@
-Stationery
+KalaivaniMart
 
 A multi-seller stationery e-commerce web application developed using Java Servlets, JDBC and Apache Tomcat.
 
