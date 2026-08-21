@@ -1,0 +1,3 @@
+0:0:0:0:0:0:0:1 - - [20/Aug/2026:06:01:22 +0530] "GET /stationery HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [20/Aug/2026:06:01:24 +0530] "GET /stationery/ HTTP/1.1" 200 240 http-bio-8080-exec-3 2225
+0:0:0:0:0:0:0:1 - - [20/Aug/2026:06:01:47 +0530] "GET /stationery/hello HTTP/1.1" 200 47 http-bio-8080-exec-4 0
