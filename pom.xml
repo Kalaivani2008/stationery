@@ -33,7 +33,7 @@
     </dependencies>
 
     <build>
-        <finalName>stationery</finalName>
+        <finalName>KalaivaniMart</finalName>
         <plugins>
             <!-- Tomcat Maven Plugin to run without IDE Server configuration -->
             <plugin>
